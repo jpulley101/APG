@@ -35,14 +35,10 @@ const Footer = () => (
         </ul>
 
         <ul className="copyright">
-          <li>&copy; Copyright 2018 CeeVee</li>
+          <li>&copy; Copyright 2018 Anchor Production Group</li>
           <li>
-            Design by
-            <a title="Styleshout" href="http://www.styleshout.com/">
-              Styleshout
-            </a>
-            Developed in React ⚛️ by &nbsp;
-            <a href="http://www.amanhimself.me">Aman Mittal</a>
+            Developed in React by &nbsp;
+            <a>Jarrett Pulley</a>
           </li>
         </ul>
       </div>

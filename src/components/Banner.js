@@ -10,7 +10,7 @@ import {
 const Banner = () => (
   <div className="row banner">
     <div className="banner-text">
-      <h1 className="responsive-headline">TEST.</h1>
+      <h1 className="responsive-headline">Welcome To Anchor Production Group</h1>
       <h3>
         TEST <span>Test</span>,
         <span>illustrator</span> and <span>webdesigner</span> creating awesome
