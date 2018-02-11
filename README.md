@@ -1,6 +1,6 @@
 # gatsby-starter-APG-TEST
 
-🚀 Gatsby Starter - APG TEST
+🚀 Built using GatsbyJS - APG TEST
 
 
 
@@ -16,8 +16,6 @@
 ---
 
 Find more starter templates like this on [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/)
-
-### Contributors Welcome
 
 #### License
 
