@@ -6,7 +6,6 @@
 
 ### Features:
 
-* Based on the Ceevee site template, design by [Styleshout](https://www.styeshout.com/)
 * Single Page Portfolio site
 * Target audience Developers, Designers, etc.
 * Used CSS Modules, easy to manipulate
@@ -14,8 +13,6 @@
 * Responsive Design, optimized for Mobile devices
 
 ---
-
-Find more starter templates like this on [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/)
 
 #### License
 
